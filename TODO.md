@@ -1,6 +1,15 @@
+- [x] Create vercel.json with DATABASE_URL
+- [x] Update build script to run migrations
+- [x] Fix Prisma client instantiation
+- [ ] Remove dev.db from git repository (run: git rm prisma/dev.db)
 - [ ] Commit and push changes
 - [ ] Redeploy to Vercel
 =======
+- [x] Update .gitignore to ignore database files
+- [x] Create vercel.json with DATABASE_URL
+- [x] Update build script to run migrations
+- [x] Fix Prisma client instantiation
+- [x] Fix corrupted package.json
 - [ ] Remove dev.db from git repository (run: git rm prisma/dev.db)
 - [ ] Commit and push changes
 - [ ] Redeploy to Vercel
